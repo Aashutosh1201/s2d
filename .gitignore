@@ -1,0 +1,4 @@
+models/s2d_dfew_best.pth
+__pycache__/
+*.py[cod]
+.DS_Store
